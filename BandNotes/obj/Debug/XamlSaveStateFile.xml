@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\david\documents\visual studio 2013\projects\bandnotes\bandnotes\obj\debug\intermediatexaml\bandnotes.exe" HashGuid="6c4d3a53-8c7f-e359-56b7-f6d680de2875" />
+    <ReferenceAssembly PathName="d:\david\documents\visual studio 2013\projects\bandnotes\packages\microsoft.band.1.3.10219-preview\lib\wpa81\microsoft.band.dll" HashGuid="617a962a-2ae1-f21d-ded3-fcb8a30781d6" />
+    <ReferenceAssembly PathName="d:\david\documents\visual studio 2013\projects\bandnotes\packages\microsoft.band.1.3.10219-preview\lib\wpa81\microsoft.band.phone.dll" HashGuid="ab986af1-cdd5-9901-e899-fe280951a85e" />
+    <ReferenceAssembly PathName="d:\david\documents\visual studio 2013\projects\bandnotes\packages\microsoft.band.1.3.10219-preview\lib\wpa81\microsoft.band.store.dll" HashGuid="17cd85e1-86c6-8286-53ab-4696594079dd" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

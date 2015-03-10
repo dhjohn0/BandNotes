@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIALGA</Machine>
+    <WindowsUser>David</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c6e1b2e2-d64c-4cf0-9e17-8c6d209d7f0b</PackageIdentityName>
+    <IntermediateOutputPath>d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\bin\Debug\BandNotes.exe">
+      <PackagePath>BandNotes.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.dll">
+      <PackagePath>Microsoft.Band.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.Phone.dll">
+      <PackagePath>Microsoft.Band.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.Store.dll">
+      <PackagePath>Microsoft.Band.Store.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\Notebook-24.png">
+      <PackagePath>Assets\Notebook-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\Notebook-46.png">
+      <PackagePath>Assets\Notebook-46.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\bin\Debug\BandNotes.xr.xml">
+      <PackagePath>BandNotes.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.Phone\Microsoft.Band.Phone.xr.xml">
+      <PackagePath>Microsoft.Band.Phone\Microsoft.Band.Phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.Phone\Tiles\PhoneAddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Phone\Tiles\PhoneAddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.Store\Microsoft.Band.Store.xr.xml">
+      <PackagePath>Microsoft.Band.Store\Microsoft.Band.Store.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\packages\Microsoft.Band.1.3.10219-preview\lib\wpa81\Microsoft.Band.Store\Tiles\AddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Store\Tiles\AddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="d:\David\Documents\Visual Studio 2013\Projects\BandNotes\BandNotes\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
